@@ -55,6 +55,17 @@ body{
     
 }
 
+.box2 .member-quote{
+    color: #c4c2c2;
+}
+.box4 .member-quote{
+    color: #c4c2c2;
+}
+.box1 .member-quote{
+    color: #c4b0e4;
+
+}
+
 .member-img{
     border-radius: 50%;
     width: 40px;
@@ -101,6 +112,7 @@ body{
     /* background-color: brown;
     padding: 50px; */
     grid-area: cbrown;
+    
 }
 .box2{
     /* background-color: green;
